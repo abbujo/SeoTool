@@ -1,0 +1,35 @@
+{
+  "id": "2026-02-19T03-26-47-642Z-j6rjf",
+  "baseUrl": "https://greencommercialcleaning.com.au/",
+  "status": "completed",
+  "createdAt": "2026-02-19T03:26:47.643Z",
+  "options": {
+    "baseUrl": "https://greencommercialcleaning.com.au/",
+    "maxPages": 100,
+    "concurrency": 1,
+    "includePatterns": [],
+    "excludePatterns": [],
+    "includeQueryPatterns": [],
+    "renderJs": false,
+    "forceAuditNonHtml": false
+  },
+  "stats": {
+    "totalDiscovered": 38,
+    "totalqueued": 0,
+    "totalCompleted": 38,
+    "totalFailed": 0,
+    "avgMobileScores": {
+      "performance": 0,
+      "accessibility": 0,
+      "bestPractices": 0,
+      "seo": 0
+    },
+    "avgDesktopScores": {
+      "performance": 0,
+      "accessibility": 0,
+      "bestPractices": 0,
+      "seo": 0
+    }
+  },
+  "completedAt": "2026-02-19T03:46:09.534Z"
+}

@@ -1,0 +1,987 @@
+{
+  "id": "2026-02-19T03-26-47-642Z-j6rjf",
+  "baseUrl": "https://greencommercialcleaning.com.au/",
+  "status": "completed",
+  "createdAt": "2026-02-19T03:26:47.643Z",
+  "options": {
+    "baseUrl": "https://greencommercialcleaning.com.au/",
+    "maxPages": 100,
+    "concurrency": 1,
+    "includePatterns": [],
+    "excludePatterns": [],
+    "includeQueryPatterns": [],
+    "renderJs": false,
+    "forceAuditNonHtml": false
+  },
+  "stats": {
+    "totalDiscovered": 38,
+    "totalqueued": 0,
+    "totalCompleted": 38,
+    "totalFailed": 0,
+    "avgMobileScores": {
+      "performance": 0,
+      "accessibility": 0,
+      "bestPractices": 0,
+      "seo": 0
+    },
+    "avgDesktopScores": {
+      "performance": 0,
+      "accessibility": 0,
+      "bestPractices": 0,
+      "seo": 0
+    }
+  },
+  "completedAt": "2026-02-19T03:46:09.534Z",
+  "pages": [
+    {
+      "url": "https://greencommercialcleaning.com.au/commercial-carpet-upholstery-cleaning-for-melbourne-offices-best-practices-timing/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.71,
+          "accessibility": 0.9,
+          "bestPractices": 0.89,
+          "seo": 1
+        },
+        "reportPath": "reports/_commercial_carpet_upholstery_cleaning_for_melbourne_offices_best_practices_timing__b12dv/mobile.json",
+        "htmlPath": "reports/_commercial_carpet_upholstery_cleaning_for_melbourne_offices_best_practices_timing__b12dv/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.5,
+          "accessibility": 0.88,
+          "bestPractices": 0.89,
+          "seo": 1
+        },
+        "reportPath": "reports/_commercial_carpet_upholstery_cleaning_for_melbourne_offices_best_practices_timing__b12dv/desktop.json",
+        "htmlPath": "reports/_commercial_carpet_upholstery_cleaning_for_melbourne_offices_best_practices_timing__b12dv/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/why-regular-commercial-cleaning-matters-more-than-ever-in-a-post-pandemic-melbourne/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.58,
+          "accessibility": 0.9,
+          "bestPractices": 0.89,
+          "seo": 1
+        },
+        "reportPath": "reports/_why_regular_commercial_cleaning_matters_more_than_ever_in_a_post_pandemic_melbourne__p80k8/mobile.json",
+        "htmlPath": "reports/_why_regular_commercial_cleaning_matters_more_than_ever_in_a_post_pandemic_melbourne__p80k8/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.5,
+          "accessibility": 0.88,
+          "bestPractices": 0.93,
+          "seo": 1
+        },
+        "reportPath": "reports/_why_regular_commercial_cleaning_matters_more_than_ever_in_a_post_pandemic_melbourne__p80k8/desktop.json",
+        "htmlPath": "reports/_why_regular_commercial_cleaning_matters_more_than_ever_in_a_post_pandemic_melbourne__p80k8/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/how-to-choose-a-commercial-cleaning-service-in-melbourne-top-questions-to-ask/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.6,
+          "accessibility": 0.9,
+          "bestPractices": 0.89,
+          "seo": 1
+        },
+        "reportPath": "reports/_how_to_choose_a_commercial_cleaning_service_in_melbourne_top_questions_to_ask__8xb9k/mobile.json",
+        "htmlPath": "reports/_how_to_choose_a_commercial_cleaning_service_in_melbourne_top_questions_to_ask__8xb9k/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.5,
+          "accessibility": 0.88,
+          "bestPractices": 0.93,
+          "seo": 1
+        },
+        "reportPath": "reports/_how_to_choose_a_commercial_cleaning_service_in_melbourne_top_questions_to_ask__8xb9k/desktop.json",
+        "htmlPath": "reports/_how_to_choose_a_commercial_cleaning_service_in_melbourne_top_questions_to_ask__8xb9k/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/sustainable-cleaning-supplies-zero-waste-strategies-for-melbourne-offices/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.66,
+          "accessibility": 0.9,
+          "bestPractices": 0.89,
+          "seo": 1
+        },
+        "reportPath": "reports/_sustainable_cleaning_supplies_zero_waste_strategies_for_melbourne_offices__0xfqb/mobile.json",
+        "htmlPath": "reports/_sustainable_cleaning_supplies_zero_waste_strategies_for_melbourne_offices__0xfqb/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.54,
+          "accessibility": 0.88,
+          "bestPractices": 0.93,
+          "seo": 1
+        },
+        "reportPath": "reports/_sustainable_cleaning_supplies_zero_waste_strategies_for_melbourne_offices__0xfqb/desktop.json",
+        "htmlPath": "reports/_sustainable_cleaning_supplies_zero_waste_strategies_for_melbourne_offices__0xfqb/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/why-melbourne-businesses-should-prioritise-green-commercial-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.74,
+          "accessibility": 0.88,
+          "bestPractices": 0.89,
+          "seo": 1
+        },
+        "reportPath": "reports/_why_melbourne_businesses_should_prioritise_green_commercial_cleaning__lun8p/mobile.json",
+        "htmlPath": "reports/_why_melbourne_businesses_should_prioritise_green_commercial_cleaning__lun8p/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.52,
+          "accessibility": 0.86,
+          "bestPractices": 0.93,
+          "seo": 1
+        },
+        "reportPath": "reports/_why_melbourne_businesses_should_prioritise_green_commercial_cleaning__lun8p/desktop.json",
+        "htmlPath": "reports/_why_melbourne_businesses_should_prioritise_green_commercial_cleaning__lun8p/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/how-to-maintain-high-hygiene-standards-in-melbourne-gyms-studios-shared-workspaces/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.65,
+          "accessibility": 0.9,
+          "bestPractices": 0.89,
+          "seo": 1
+        },
+        "reportPath": "reports/_how_to_maintain_high_hygiene_standards_in_melbourne_gyms_studios_shared_workspaces__v1z7v/mobile.json",
+        "htmlPath": "reports/_how_to_maintain_high_hygiene_standards_in_melbourne_gyms_studios_shared_workspaces__v1z7v/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.48,
+          "accessibility": 0.88,
+          "bestPractices": 0.93,
+          "seo": 1
+        },
+        "reportPath": "reports/_how_to_maintain_high_hygiene_standards_in_melbourne_gyms_studios_shared_workspaces__v1z7v/desktop.json",
+        "htmlPath": "reports/_how_to_maintain_high_hygiene_standards_in_melbourne_gyms_studios_shared_workspaces__v1z7v/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/commercial-cleaning-for-melbourne-retail-spaces-what-retailers-should-focus-on/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.66,
+          "accessibility": 0.9,
+          "bestPractices": 0.89,
+          "seo": 1
+        },
+        "reportPath": "reports/_commercial_cleaning_for_melbourne_retail_spaces_what_retailers_should_focus_on__niq5g/mobile.json",
+        "htmlPath": "reports/_commercial_cleaning_for_melbourne_retail_spaces_what_retailers_should_focus_on__niq5g/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.51,
+          "accessibility": 0.88,
+          "bestPractices": 0.93,
+          "seo": 1
+        },
+        "reportPath": "reports/_commercial_cleaning_for_melbourne_retail_spaces_what_retailers_should_focus_on__niq5g/desktop.json",
+        "htmlPath": "reports/_commercial_cleaning_for_melbourne_retail_spaces_what_retailers_should_focus_on__niq5g/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/why-post-construction-cleaning-is-vital-for-melbourne-office-fit-outs/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.71,
+          "accessibility": 0.9,
+          "bestPractices": 0.89,
+          "seo": 1
+        },
+        "reportPath": "reports/_why_post_construction_cleaning_is_vital_for_melbourne_office_fit_outs__u15n3/mobile.json",
+        "htmlPath": "reports/_why_post_construction_cleaning_is_vital_for_melbourne_office_fit_outs__u15n3/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.51,
+          "accessibility": 0.88,
+          "bestPractices": 0.93,
+          "seo": 1
+        },
+        "reportPath": "reports/_why_post_construction_cleaning_is_vital_for_melbourne_office_fit_outs__u15n3/desktop.json",
+        "htmlPath": "reports/_why_post_construction_cleaning_is_vital_for_melbourne_office_fit_outs__u15n3/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/indoor-air-quality-commercial-cleaning-what-melbourne-businesses-need-to-know/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.64,
+          "accessibility": 0.9,
+          "bestPractices": 0.93,
+          "seo": 1
+        },
+        "reportPath": "reports/_indoor_air_quality_commercial_cleaning_what_melbourne_businesses_need_to_know__1di6i/mobile.json",
+        "htmlPath": "reports/_indoor_air_quality_commercial_cleaning_what_melbourne_businesses_need_to_know__1di6i/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.46,
+          "accessibility": 0.88,
+          "bestPractices": 0.96,
+          "seo": 1
+        },
+        "reportPath": "reports/_indoor_air_quality_commercial_cleaning_what_melbourne_businesses_need_to_know__1di6i/desktop.json",
+        "htmlPath": "reports/_indoor_air_quality_commercial_cleaning_what_melbourne_businesses_need_to_know__1di6i/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/the-rise-of-smart-automated-cleaning-technologies-in-melbourne-workspaces/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.71,
+          "accessibility": 0.9,
+          "bestPractices": 0.93,
+          "seo": 1
+        },
+        "reportPath": "reports/_the_rise_of_smart_automated_cleaning_technologies_in_melbourne_workspaces__e6r83/mobile.json",
+        "htmlPath": "reports/_the_rise_of_smart_automated_cleaning_technologies_in_melbourne_workspaces__e6r83/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.46,
+          "accessibility": 0.88,
+          "bestPractices": 0.96,
+          "seo": 1
+        },
+        "reportPath": "reports/_the_rise_of_smart_automated_cleaning_technologies_in_melbourne_workspaces__e6r83/desktop.json",
+        "htmlPath": "reports/_the_rise_of_smart_automated_cleaning_technologies_in_melbourne_workspaces__e6r83/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/how-to-prepare-your-office-for-end-of-financial-year-cleaning-in-melbourne/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.7,
+          "accessibility": 0.9,
+          "bestPractices": 0.93,
+          "seo": 1
+        },
+        "reportPath": "reports/_how_to_prepare_your_office_for_end_of_financial_year_cleaning_in_melbourne__tax3y/mobile.json",
+        "htmlPath": "reports/_how_to_prepare_your_office_for_end_of_financial_year_cleaning_in_melbourne__tax3y/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.44,
+          "accessibility": 0.88,
+          "bestPractices": 0.96,
+          "seo": 1
+        },
+        "reportPath": "reports/_how_to_prepare_your_office_for_end_of_financial_year_cleaning_in_melbourne__tax3y/desktop.json",
+        "htmlPath": "reports/_how_to_prepare_your_office_for_end_of_financial_year_cleaning_in_melbourne__tax3y/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/windows-facades-and-first-impressions-a-building-managers-playbook/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.71,
+          "accessibility": 0.9,
+          "bestPractices": 0.93,
+          "seo": 1
+        },
+        "reportPath": "reports/_windows_facades_and_first_impressions_a_building_managers_playbook__q902p/mobile.json",
+        "htmlPath": "reports/_windows_facades_and_first_impressions_a_building_managers_playbook__q902p/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.47,
+          "accessibility": 0.88,
+          "bestPractices": 0.96,
+          "seo": 1
+        },
+        "reportPath": "reports/_windows_facades_and_first_impressions_a_building_managers_playbook__q902p/desktop.json",
+        "htmlPath": "reports/_windows_facades_and_first_impressions_a_building_managers_playbook__q902p/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/factory-warehouse-cleaning-the-quiet-productivity-upgrade/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.7,
+          "accessibility": 0.9,
+          "bestPractices": 0.93,
+          "seo": 1
+        },
+        "reportPath": "reports/_factory_warehouse_cleaning_the_quiet_productivity_upgrade__r0x8t/mobile.json",
+        "htmlPath": "reports/_factory_warehouse_cleaning_the_quiet_productivity_upgrade__r0x8t/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.44,
+          "accessibility": 0.88,
+          "bestPractices": 0.96,
+          "seo": 1
+        },
+        "reportPath": "reports/_factory_warehouse_cleaning_the_quiet_productivity_upgrade__r0x8t/desktop.json",
+        "htmlPath": "reports/_factory_warehouse_cleaning_the_quiet_productivity_upgrade__r0x8t/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/blog-1-duplicated/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.66,
+          "accessibility": 0.9,
+          "bestPractices": 0.93,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_1_duplicated__vt7dz/mobile.json",
+        "htmlPath": "reports/_blog_1_duplicated__vt7dz/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.44,
+          "accessibility": 0.88,
+          "bestPractices": 0.96,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_1_duplicated__vt7dz/desktop.json",
+        "htmlPath": "reports/_blog_1_duplicated__vt7dz/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/why-green-cleaning-matters-for-businesses/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.68,
+          "accessibility": 0.9,
+          "bestPractices": 0.93,
+          "seo": 1
+        },
+        "reportPath": "reports/_why_green_cleaning_matters_for_businesses__yenup/mobile.json",
+        "htmlPath": "reports/_why_green_cleaning_matters_for_businesses__yenup/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.4,
+          "accessibility": 0.88,
+          "bestPractices": 0.96,
+          "seo": 1
+        },
+        "reportPath": "reports/_why_green_cleaning_matters_for_businesses__yenup/desktop.json",
+        "htmlPath": "reports/_why_green_cleaning_matters_for_businesses__yenup/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/commercial-cleaning-in-melbourne-what-it-includes-and-how-much-it-costs/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.59,
+          "accessibility": 0.9,
+          "bestPractices": 0.93,
+          "seo": 1
+        },
+        "reportPath": "reports/_commercial_cleaning_in_melbourne_what_it_includes_and_how_much_it_costs__bwrv5/mobile.json",
+        "htmlPath": "reports/_commercial_cleaning_in_melbourne_what_it_includes_and_how_much_it_costs__bwrv5/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.42,
+          "accessibility": 0.88,
+          "bestPractices": 0.96,
+          "seo": 1
+        },
+        "reportPath": "reports/_commercial_cleaning_in_melbourne_what_it_includes_and_how_much_it_costs__bwrv5/desktop.json",
+        "htmlPath": "reports/_commercial_cleaning_in_melbourne_what_it_includes_and_how_much_it_costs__bwrv5/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.59,
+          "accessibility": 0.9,
+          "bestPractices": 0.93,
+          "seo": 1
+        },
+        "reportPath": "reports/__tydzk/mobile.json",
+        "htmlPath": "reports/__tydzk/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.2,
+          "accessibility": 0.9,
+          "bestPractices": 0.96,
+          "seo": 1
+        },
+        "reportPath": "reports/__tydzk/desktop.json",
+        "htmlPath": "reports/__tydzk/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/home/industrial-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.53,
+          "accessibility": 0.9,
+          "bestPractices": 0.93,
+          "seo": 1
+        },
+        "reportPath": "reports/_home_industrial_cleaning__g95xt/mobile.json",
+        "htmlPath": "reports/_home_industrial_cleaning__g95xt/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.39,
+          "accessibility": 0.88,
+          "bestPractices": 0.96,
+          "seo": 1
+        },
+        "reportPath": "reports/_home_industrial_cleaning__g95xt/desktop.json",
+        "htmlPath": "reports/_home_industrial_cleaning__g95xt/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/school-educational-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.52,
+          "accessibility": 0.9,
+          "bestPractices": 0.93,
+          "seo": 1
+        },
+        "reportPath": "reports/_school_educational_cleaning__cllks/mobile.json",
+        "htmlPath": "reports/_school_educational_cleaning__cllks/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.39,
+          "accessibility": 0.88,
+          "bestPractices": 0.96,
+          "seo": 1
+        },
+        "reportPath": "reports/_school_educational_cleaning__cllks/desktop.json",
+        "htmlPath": "reports/_school_educational_cleaning__cllks/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/home/office-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.54,
+          "accessibility": 0.9,
+          "bestPractices": 0.93,
+          "seo": 1
+        },
+        "reportPath": "reports/_home_office_cleaning__wnz7w/mobile.json",
+        "htmlPath": "reports/_home_office_cleaning__wnz7w/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.36,
+          "accessibility": 0.88,
+          "bestPractices": 0.96,
+          "seo": 1
+        },
+        "reportPath": "reports/_home_office_cleaning__wnz7w/desktop.json",
+        "htmlPath": "reports/_home_office_cleaning__wnz7w/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/home/restaurant-2/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.51,
+          "accessibility": 0.9,
+          "bestPractices": 0.93,
+          "seo": 1
+        },
+        "reportPath": "reports/_home_restaurant_2__98v2s/mobile.json",
+        "htmlPath": "reports/_home_restaurant_2__98v2s/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.37,
+          "accessibility": 0.88,
+          "bestPractices": 0.96,
+          "seo": 1
+        },
+        "reportPath": "reports/_home_restaurant_2__98v2s/desktop.json",
+        "htmlPath": "reports/_home_restaurant_2__98v2s/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/clinic-hospital-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.49,
+          "accessibility": 0.9,
+          "bestPractices": 0.93,
+          "seo": 1
+        },
+        "reportPath": "reports/_clinic_hospital_cleaning__6a0dh/mobile.json",
+        "htmlPath": "reports/_clinic_hospital_cleaning__6a0dh/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.4,
+          "accessibility": 0.88,
+          "bestPractices": 0.96,
+          "seo": 1
+        },
+        "reportPath": "reports/_clinic_hospital_cleaning__6a0dh/desktop.json",
+        "htmlPath": "reports/_clinic_hospital_cleaning__6a0dh/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/home/home-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.48,
+          "accessibility": 0.9,
+          "bestPractices": 0.93,
+          "seo": 1
+        },
+        "reportPath": "reports/_home_home_cleaning__1blc4/mobile.json",
+        "htmlPath": "reports/_home_home_cleaning__1blc4/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.38,
+          "accessibility": 0.88,
+          "bestPractices": 0.96,
+          "seo": 1
+        },
+        "reportPath": "reports/_home_home_cleaning__1blc4/desktop.json",
+        "htmlPath": "reports/_home_home_cleaning__1blc4/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/sports-fitness-facility-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.49,
+          "accessibility": 0.9,
+          "bestPractices": 0.93,
+          "seo": 1
+        },
+        "reportPath": "reports/_sports_fitness_facility_cleaning__um24o/mobile.json",
+        "htmlPath": "reports/_sports_fitness_facility_cleaning__um24o/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.39,
+          "accessibility": 0.88,
+          "bestPractices": 0.96,
+          "seo": 1
+        },
+        "reportPath": "reports/_sports_fitness_facility_cleaning__um24o/desktop.json",
+        "htmlPath": "reports/_sports_fitness_facility_cleaning__um24o/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/blog-post/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.63,
+          "accessibility": 0.88,
+          "bestPractices": 0.93,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_post__46ejh/mobile.json",
+        "htmlPath": "reports/_blog_post__46ejh/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.38,
+          "accessibility": 0.86,
+          "bestPractices": 0.96,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_post__46ejh/desktop.json",
+        "htmlPath": "reports/_blog_post__46ejh/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/about/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.54,
+          "accessibility": 0.88,
+          "bestPractices": 0.93,
+          "seo": 1
+        },
+        "reportPath": "reports/_about__qamjx/mobile.json",
+        "htmlPath": "reports/_about__qamjx/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.31,
+          "accessibility": 0.86,
+          "bestPractices": 0.96,
+          "seo": 1
+        },
+        "reportPath": "reports/_about__qamjx/desktop.json",
+        "htmlPath": "reports/_about__qamjx/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/home/residential/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.52,
+          "accessibility": 0.88,
+          "bestPractices": 0.93,
+          "seo": 1
+        },
+        "reportPath": "reports/_home_residential__eu8v0/mobile.json",
+        "htmlPath": "reports/_home_residential__eu8v0/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.33,
+          "accessibility": 0.86,
+          "bestPractices": 0.96,
+          "seo": 1
+        },
+        "reportPath": "reports/_home_residential__eu8v0/desktop.json",
+        "htmlPath": "reports/_home_residential__eu8v0/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/home/pricing/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.57,
+          "accessibility": 0.91,
+          "bestPractices": 0.93,
+          "seo": 1
+        },
+        "reportPath": "reports/_home_pricing__9zwr5/mobile.json",
+        "htmlPath": "reports/_home_pricing__9zwr5/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.34,
+          "accessibility": 0.9,
+          "bestPractices": 0.96,
+          "seo": 1
+        },
+        "reportPath": "reports/_home_pricing__9zwr5/desktop.json",
+        "htmlPath": "reports/_home_pricing__9zwr5/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/contact/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.5,
+          "accessibility": 0.9,
+          "bestPractices": 0.93,
+          "seo": 1
+        },
+        "reportPath": "reports/_contact__nhfro/mobile.json",
+        "htmlPath": "reports/_contact__nhfro/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.32,
+          "accessibility": 0.88,
+          "bestPractices": 0.96,
+          "seo": 1
+        },
+        "reportPath": "reports/_contact__nhfro/desktop.json",
+        "htmlPath": "reports/_contact__nhfro/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/services-in-melbourne/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.53,
+          "accessibility": 0.88,
+          "bestPractices": 0.89,
+          "seo": 1
+        },
+        "reportPath": "reports/_services_in_melbourne__rgg32/mobile.json",
+        "htmlPath": "reports/_services_in_melbourne__rgg32/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.35,
+          "accessibility": 0.86,
+          "bestPractices": 0.93,
+          "seo": 1
+        },
+        "reportPath": "reports/_services_in_melbourne__rgg32/desktop.json",
+        "htmlPath": "reports/_services_in_melbourne__rgg32/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/service-page/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.58,
+          "accessibility": 0.88,
+          "bestPractices": 0.93,
+          "seo": 1
+        },
+        "reportPath": "reports/_service_page__c8l1s/mobile.json",
+        "htmlPath": "reports/_service_page__c8l1s/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.28,
+          "accessibility": 0.86,
+          "bestPractices": 0.96,
+          "seo": 1
+        },
+        "reportPath": "reports/_service_page__c8l1s/desktop.json",
+        "htmlPath": "reports/_service_page__c8l1s/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/commercial/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.49,
+          "accessibility": 0.89,
+          "bestPractices": 0.93,
+          "seo": 1
+        },
+        "reportPath": "reports/_commercial__qhzli/mobile.json",
+        "htmlPath": "reports/_commercial__qhzli/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.31,
+          "accessibility": 0.89,
+          "bestPractices": 0.96,
+          "seo": 1
+        },
+        "reportPath": "reports/_commercial__qhzli/desktop.json",
+        "htmlPath": "reports/_commercial__qhzli/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/elementor-hf/footer/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.52,
+          "accessibility": 0.9,
+          "bestPractices": 0.93,
+          "seo": 1
+        },
+        "reportPath": "reports/_elementor_hf_footer__j5tp5/mobile.json",
+        "htmlPath": "reports/_elementor_hf_footer__j5tp5/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.15,
+          "accessibility": 0.9,
+          "bestPractices": 0.96,
+          "seo": 1
+        },
+        "reportPath": "reports/_elementor_hf_footer__j5tp5/desktop.json",
+        "htmlPath": "reports/_elementor_hf_footer__j5tp5/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/category/blog/",
+      "status": "up",
+      "discoveredFrom": "crawl",
+      "mobile": {
+        "scores": {
+          "performance": 0.63,
+          "accessibility": 0.88,
+          "bestPractices": 0.93,
+          "seo": 0.93
+        },
+        "reportPath": "reports/_category_blog__1jkso/mobile.json",
+        "htmlPath": "reports/_category_blog__1jkso/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.36,
+          "accessibility": 0.86,
+          "bestPractices": 0.96,
+          "seo": 0.92
+        },
+        "reportPath": "reports/_category_blog__1jkso/desktop.json",
+        "htmlPath": "reports/_category_blog__1jkso/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/author/beehive/",
+      "status": "up",
+      "discoveredFrom": "crawl",
+      "mobile": {
+        "scores": {
+          "performance": 0.62,
+          "accessibility": 0.88,
+          "bestPractices": 0.93,
+          "seo": 0.85
+        },
+        "reportPath": "reports/_author_beehive__2m85m/mobile.json",
+        "htmlPath": "reports/_author_beehive__2m85m/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.36,
+          "accessibility": 0.86,
+          "bestPractices": 0.96,
+          "seo": 0.82
+        },
+        "reportPath": "reports/_author_beehive__2m85m/desktop.json",
+        "htmlPath": "reports/_author_beehive__2m85m/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/blog-post/page/2/",
+      "status": "up",
+      "discoveredFrom": "crawl",
+      "mobile": {
+        "scores": {
+          "performance": 0.62,
+          "accessibility": 0.88,
+          "bestPractices": 0.93,
+          "seo": 0.92
+        },
+        "reportPath": "reports/_blog_post_page_2__6ve3a/mobile.json",
+        "htmlPath": "reports/_blog_post_page_2__6ve3a/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.33,
+          "accessibility": 0.86,
+          "bestPractices": 0.96,
+          "seo": 0.91
+        },
+        "reportPath": "reports/_blog_post_page_2__6ve3a/desktop.json",
+        "htmlPath": "reports/_blog_post_page_2__6ve3a/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/category/blog/page/2/",
+      "status": "up",
+      "discoveredFrom": "crawl",
+      "mobile": {
+        "scores": {
+          "performance": 0.59,
+          "accessibility": 0.88,
+          "bestPractices": 0.93,
+          "seo": 0.85
+        },
+        "reportPath": "reports/_category_blog_page_2__lzkn0/mobile.json",
+        "htmlPath": "reports/_category_blog_page_2__lzkn0/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.37,
+          "accessibility": 0.86,
+          "bestPractices": 0.96,
+          "seo": 0.82
+        },
+        "reportPath": "reports/_category_blog_page_2__lzkn0/desktop.json",
+        "htmlPath": "reports/_category_blog_page_2__lzkn0/desktop.html"
+      }
+    },
+    {
+      "url": "https://greencommercialcleaning.com.au/author/beehive/page/2/",
+      "status": "up",
+      "discoveredFrom": "crawl",
+      "mobile": {
+        "scores": {
+          "performance": 0.6,
+          "accessibility": 0.88,
+          "bestPractices": 0.93,
+          "seo": 0.85
+        },
+        "reportPath": "reports/_author_beehive_page_2__2mi6z/mobile.json",
+        "htmlPath": "reports/_author_beehive_page_2__2mi6z/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.35,
+          "accessibility": 0.86,
+          "bestPractices": 0.96,
+          "seo": 0.82
+        },
+        "reportPath": "reports/_author_beehive_page_2__2mi6z/desktop.json",
+        "htmlPath": "reports/_author_beehive_page_2__2mi6z/desktop.html"
+      }
+    }
+  ]
+}

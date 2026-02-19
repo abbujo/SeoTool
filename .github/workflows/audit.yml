@@ -1,0 +1,42 @@
+name: Scheduled Audit
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Weekly on Sunday
+  workflow_dispatch:
+    inputs:
+      baseUrl:
+        description: 'Base URL to audit'
+        required: true
+        default: 'https://example.com'
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: pnpm/action-setup@v2
+        with:
+          version: 8
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'pnpm'
+
+      - run: pnpm install
+      - run: pnpm build
+
+      - name: Run Audit
+        run: |
+          # Use input URL or default
+          URL="${{ github.event.inputs.baseUrl || 'https://example.com' }}"
+          # Run the CLI
+          node packages/runner/dist/cli.js audit --baseUrl "$URL" --runsDir ./runs
+
+      - name: Upload Results
+        uses: actions/upload-artifact@v4
+        with:
+          name: audit-results
+          path: runs/

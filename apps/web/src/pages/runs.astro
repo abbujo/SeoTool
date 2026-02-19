@@ -1,0 +1,15 @@
+---
+import Layout from '../layouts/Layout.astro';
+import RunHistory from '../components/RunHistory';
+
+const API_URL = 'http://localhost:3000';
+---
+
+<Layout title="Run History">
+  <div class="mb-8">
+    <h1 class="text-3xl font-bold text-gray-900 dark:text-white">Audit History</h1>
+  </div>
+
+  <!-- Client-side only -->
+  <RunHistory client:only="react" apiUrl={API_URL} />
+</Layout>

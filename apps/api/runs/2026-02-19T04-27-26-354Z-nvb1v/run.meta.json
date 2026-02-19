@@ -1,0 +1,35 @@
+{
+  "id": "2026-02-19T04-27-26-354Z-nvb1v",
+  "baseUrl": "https://www.spiffyclean.com.au/",
+  "status": "completed",
+  "createdAt": "2026-02-19T04:27:26.354Z",
+  "options": {
+    "baseUrl": "https://www.spiffyclean.com.au/",
+    "maxPages": 100,
+    "concurrency": 1,
+    "includePatterns": [],
+    "excludePatterns": [],
+    "includeQueryPatterns": [],
+    "renderJs": false,
+    "forceAuditNonHtml": false
+  },
+  "stats": {
+    "totalDiscovered": 104,
+    "totalqueued": 0,
+    "totalCompleted": 104,
+    "totalFailed": 0,
+    "avgMobileScores": {
+      "performance": 0.2975961538461539,
+      "accessibility": 0.8270192307692301,
+      "bestPractices": 0.7378846153846159,
+      "seo": 0.8726923076923078
+    },
+    "avgDesktopScores": {
+      "performance": 0.23894230769230781,
+      "accessibility": 0.8286538461538464,
+      "bestPractices": 0.7390384615384621,
+      "seo": 0.8688461538461536
+    }
+  },
+  "completedAt": "2026-02-19T06:40:30.328Z"
+}

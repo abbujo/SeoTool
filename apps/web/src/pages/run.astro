@@ -1,0 +1,18 @@
+---
+import Layout from '../layouts/Layout.astro';
+import RunDashboard from '../components/RunDashboard';
+
+const API_URL = 'http://localhost:3000'; // Env var in future
+---
+
+<Layout title="Audit Result">
+  <div class="mb-6">
+    <a href="/runs" class="text-blue-600 hover:text-blue-800 flex items-center mb-4">
+      &larr; Back to History
+    </a>
+    <h1 class="text-2xl font-bold text-gray-900 dark:text-white">Audit Result</h1>
+  </div>
+
+  <!-- Client-side only component -->
+  <RunDashboard client:only="react" runId="" apiUrl={API_URL} />
+</Layout>

@@ -1,0 +1,188 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Card from '../components/Card.astro';
+---
+
+<Layout title="New Audit">
+	<div class="max-w-3xl mx-auto space-y-6">
+		<div class="text-center mb-10">
+			<h1
+				class="text-4xl font-extrabold tracking-tight text-gray-900 dark:text-white sm:text-5xl md:text-6xl"
+			>
+				<span class="block xl:inline">SitePulse</span>
+			</h1>
+			<p
+				class="mt-3 max-w-md mx-auto text-base text-gray-500 dark:text-gray-400 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl"
+			>
+				Full-stack SEO & Accessibility auditor for modern websites.
+			</p>
+		</div>
+
+		<Card class="shadow-xl">
+			<form id="audit-form" class="space-y-6">
+				<div>
+					<label for="baseUrl" class="block text-sm font-medium text-gray-700 dark:text-gray-300"
+						>Target URL</label
+					>
+					<div class="mt-1">
+						<input
+							type="url"
+							name="baseUrl"
+							id="baseUrl"
+							required
+							placeholder="https://example.com"
+							class="shadow-sm focus:ring-blue-500 focus:border-blue-500 block w-full sm:text-sm border-gray-300 dark:border-gray-700 dark:bg-gray-800 dark:text-white rounded-md p-3"
+						/>
+					</div>
+				</div>
+
+				<div
+					class="bg-gray-50 dark:bg-gray-800/50 p-4 rounded-lg border border-gray-100 dark:border-gray-800"
+				>
+					<div
+						class="flex items-center justify-between cursor-pointer"
+						onclick="document.getElementById('advanced-options').classList.toggle('hidden')"
+					>
+						<span class="text-sm font-medium text-gray-900 dark:text-gray-200"
+							>Advanced Options</span
+						>
+						<svg
+							class="h-5 w-5 text-gray-500"
+							fill="none"
+							viewBox="0 0 24 24"
+							stroke="currentColor"
+						>
+							<path
+								stroke-linecap="round"
+								stroke-linejoin="round"
+								stroke-width="2"
+								d="M19 9l-7 7-7-7"></path>
+						</svg>
+					</div>
+					<div id="advanced-options" class="hidden mt-4 space-y-4">
+						<div class="grid grid-cols-1 gap-y-6 gap-x-4 sm:grid-cols-6">
+							<div class="sm:col-span-3">
+								<label
+									for="maxPages"
+									class="block text-sm font-medium text-gray-700 dark:text-gray-300"
+									>Max Pages</label
+								>
+								<div class="mt-1">
+									<input
+										type="number"
+										name="maxPages"
+										id="maxPages"
+										value="100"
+										min="1"
+										max="1000"
+										class="shadow-sm focus:ring-blue-500 focus:border-blue-500 block w-full sm:text-sm border-gray-300 dark:border-gray-700 dark:bg-gray-800 dark:text-white rounded-md p-2"
+									/>
+								</div>
+							</div>
+
+							<div class="sm:col-span-3">
+								<label
+									for="concurrency"
+									class="block text-sm font-medium text-gray-700 dark:text-gray-300"
+									>Concurrency</label
+								>
+								<div class="mt-1">
+									<input
+										type="number"
+										name="concurrency"
+										id="concurrency"
+										value="1"
+										min="1"
+										max="5"
+										class="shadow-sm focus:ring-blue-500 focus:border-blue-500 block w-full sm:text-sm border-gray-300 dark:border-gray-700 dark:bg-gray-800 dark:text-white rounded-md p-2"
+									/>
+								</div>
+							</div>
+
+							<div class="sm:col-span-6">
+								<label class="flex items-center space-x-3">
+									<input
+										type="checkbox"
+										name="renderJs"
+										class="h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300 rounded"
+									/>
+									<span class="text-sm text-gray-700 dark:text-gray-300"
+										>Use Headless Browser for Crawling (slower but finds JS links)</span
+									>
+								</label>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="pt-2">
+					<button
+						type="submit"
+						id="submit-btn"
+						class="w-full flex justify-center py-3 px-4 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition-colors"
+					>
+						Start Audit
+					</button>
+					<p id="error-msg" class="mt-2 text-red-600 text-sm hidden"></p>
+				</div>
+			</form>
+		</Card>
+
+		<!-- Recent Runs Preview could go here -->
+	</div>
+
+	<script>
+		const form = document.getElementById('audit-form');
+		const submitBtn = document.getElementById('submit-btn');
+		const errorMsg = document.getElementById('error-msg');
+
+		// Use localhost:3000 for API in dev if not proxied.
+		// Assuming user runs pnpm dev which runs Astro on 4321 and API on 3000.
+		// In production, might be same domain.
+		// We'll use env var or default to locahost:3000
+		const API_URL = 'http://localhost:3000';
+
+		form?.addEventListener('submit', async (e) => {
+			e.preventDefault();
+			if (!submitBtn) return;
+
+			submitBtn.textContent = 'Starting...';
+			// btn disabled
+			(submitBtn as HTMLButtonElement).disabled = true;
+			errorMsg?.classList.add('hidden');
+
+			const formData = new FormData(e.target as HTMLFormElement);
+			const data = {
+				baseUrl: formData.get('baseUrl'),
+				options: {
+					maxPages: Number(formData.get('maxPages')),
+					concurrency: Number(formData.get('concurrency')),
+					renderJs: formData.get('renderJs') === 'on',
+				},
+			};
+
+			try {
+				const res = await fetch(`${API_URL}/runs`, {
+					method: 'POST',
+					headers: { 'Content-Type': 'application/json' },
+					body: JSON.stringify(data),
+				});
+
+				if (!res.ok) {
+					const err = await res.json();
+					throw new Error(err.error || 'Failed to start run');
+				}
+
+				const { runId } = await res.json();
+				window.location.href = `/run?id=${runId}`;
+			} catch (err: any) {
+				if (errorMsg) {
+					errorMsg.textContent = err.message;
+					errorMsg.classList.remove('hidden');
+				}
+				submitBtn.textContent = 'Start Audit';
+				(submitBtn as HTMLButtonElement).disabled = false;
+			}
+		});
+	</script>
+</Layout>

@@ -1,0 +1,2637 @@
+{
+  "id": "2026-02-19T04-27-26-354Z-nvb1v",
+  "baseUrl": "https://www.spiffyclean.com.au/",
+  "status": "completed",
+  "createdAt": "2026-02-19T04:27:26.354Z",
+  "options": {
+    "baseUrl": "https://www.spiffyclean.com.au/",
+    "maxPages": 100,
+    "concurrency": 1,
+    "includePatterns": [],
+    "excludePatterns": [],
+    "includeQueryPatterns": [],
+    "renderJs": false,
+    "forceAuditNonHtml": false
+  },
+  "stats": {
+    "totalDiscovered": 104,
+    "totalqueued": 0,
+    "totalCompleted": 104,
+    "totalFailed": 0,
+    "avgMobileScores": {
+      "performance": 0.2975961538461539,
+      "accessibility": 0.8270192307692301,
+      "bestPractices": 0.7378846153846159,
+      "seo": 0.8726923076923078
+    },
+    "avgDesktopScores": {
+      "performance": 0.23894230769230781,
+      "accessibility": 0.8286538461538464,
+      "bestPractices": 0.7390384615384621,
+      "seo": 0.8688461538461536
+    }
+  },
+  "completedAt": "2026-02-19T06:40:30.328Z",
+  "pages": [
+    {
+      "url": "https://www.spiffyclean.com.au/blog/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.34,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog__evyha/mobile.json",
+        "htmlPath": "reports/_blog__evyha/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.26,
+          "accessibility": 0.89,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog__evyha/desktop.json",
+        "htmlPath": "reports/_blog__evyha/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/blog/biodegradable-office-cleaning-products/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.4,
+          "accessibility": 0.89,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_biodegradable_office_cleaning_products__ys4ef/mobile.json",
+        "htmlPath": "reports/_blog_biodegradable_office_cleaning_products__ys4ef/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.28,
+          "accessibility": 0.89,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_biodegradable_office_cleaning_products__ys4ef/desktop.json",
+        "htmlPath": "reports/_blog_biodegradable_office_cleaning_products__ys4ef/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/blog/routine-carpet-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.31,
+          "accessibility": 0.89,
+          "bestPractices": 0.78,
+          "seo": 0.89
+        },
+        "reportPath": "reports/_blog_routine_carpet_cleaning__jgh3x/mobile.json",
+        "htmlPath": "reports/_blog_routine_carpet_cleaning__jgh3x/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.27,
+          "accessibility": 0.89,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_routine_carpet_cleaning__jgh3x/desktop.json",
+        "htmlPath": "reports/_blog_routine_carpet_cleaning__jgh3x/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/blog/science-of-disinfection/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.42,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.93
+        },
+        "reportPath": "reports/_blog_science_of_disinfection__1a24j/mobile.json",
+        "htmlPath": "reports/_blog_science_of_disinfection__1a24j/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.27,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_science_of_disinfection__1a24j/desktop.json",
+        "htmlPath": "reports/_blog_science_of_disinfection__1a24j/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/blog/touchless-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.39,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_touchless_cleaning__edmg8/mobile.json",
+        "htmlPath": "reports/_blog_touchless_cleaning__edmg8/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.26,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_touchless_cleaning__edmg8/desktop.json",
+        "htmlPath": "reports/_blog_touchless_cleaning__edmg8/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/blog/complete-guide-for-office-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.34,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_complete_guide_for_office_cleaning__xtey5/mobile.json",
+        "htmlPath": "reports/_blog_complete_guide_for_office_cleaning__xtey5/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.27,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_complete_guide_for_office_cleaning__xtey5/desktop.json",
+        "htmlPath": "reports/_blog_complete_guide_for_office_cleaning__xtey5/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/blog/innovative-body-corporate-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.39,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_innovative_body_corporate_cleaning__nr0l9/mobile.json",
+        "htmlPath": "reports/_blog_innovative_body_corporate_cleaning__nr0l9/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.27,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_innovative_body_corporate_cleaning__nr0l9/desktop.json",
+        "htmlPath": "reports/_blog_innovative_body_corporate_cleaning__nr0l9/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/blog/sustainable-deep-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.36,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_sustainable_deep_cleaning__bfael/mobile.json",
+        "htmlPath": "reports/_blog_sustainable_deep_cleaning__bfael/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.27,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_sustainable_deep_cleaning__bfael/desktop.json",
+        "htmlPath": "reports/_blog_sustainable_deep_cleaning__bfael/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/blog/commercial-deep-cleaning-vs-regular-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.35,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_commercial_deep_cleaning_vs_regular_cleaning__0c73x/mobile.json",
+        "htmlPath": "reports/_blog_commercial_deep_cleaning_vs_regular_cleaning__0c73x/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0,
+          "accessibility": 0,
+          "bestPractices": 0,
+          "seo": 0
+        },
+        "reportPath": "reports/_blog_commercial_deep_cleaning_vs_regular_cleaning__0c73x/desktop.json",
+        "htmlPath": "reports/_blog_commercial_deep_cleaning_vs_regular_cleaning__0c73x/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/blog/choosing-the-right-commercial-cleaning-company/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.4,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_choosing_the_right_commercial_cleaning_company__wb94z/mobile.json",
+        "htmlPath": "reports/_blog_choosing_the_right_commercial_cleaning_company__wb94z/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.27,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_choosing_the_right_commercial_cleaning_company__wb94z/desktop.json",
+        "htmlPath": "reports/_blog_choosing_the_right_commercial_cleaning_company__wb94z/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/blog/how-professional-commercial-cleaning-impacts-productivity/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.37,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_how_professional_commercial_cleaning_impacts_productivity__4n202/mobile.json",
+        "htmlPath": "reports/_blog_how_professional_commercial_cleaning_impacts_productivity__4n202/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.26,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_how_professional_commercial_cleaning_impacts_productivity__4n202/desktop.json",
+        "htmlPath": "reports/_blog_how_professional_commercial_cleaning_impacts_productivity__4n202/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/blog/strata-cleaning-checklist/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0,
+          "accessibility": 0,
+          "bestPractices": 0,
+          "seo": 0
+        },
+        "reportPath": "reports/_blog_strata_cleaning_checklist__7tz6z/mobile.json",
+        "htmlPath": "reports/_blog_strata_cleaning_checklist__7tz6z/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.26,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_strata_cleaning_checklist__7tz6z/desktop.json",
+        "htmlPath": "reports/_blog_strata_cleaning_checklist__7tz6z/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/blog/oursourced-vs-in-house-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.38,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_oursourced_vs_in_house_cleaning__nsexw/mobile.json",
+        "htmlPath": "reports/_blog_oursourced_vs_in_house_cleaning__nsexw/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.28,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_oursourced_vs_in_house_cleaning__nsexw/desktop.json",
+        "htmlPath": "reports/_blog_oursourced_vs_in_house_cleaning__nsexw/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/blog/aged-care-hygiene-guide/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.38,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_aged_care_hygiene_guide__u2asq/mobile.json",
+        "htmlPath": "reports/_blog_aged_care_hygiene_guide__u2asq/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.27,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_aged_care_hygiene_guide__u2asq/desktop.json",
+        "htmlPath": "reports/_blog_aged_care_hygiene_guide__u2asq/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/blog/how-professional-cleaning-improves-gym-hygiene/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.42,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_how_professional_cleaning_improves_gym_hygiene__di18d/mobile.json",
+        "htmlPath": "reports/_blog_how_professional_cleaning_improves_gym_hygiene__di18d/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.27,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_how_professional_cleaning_improves_gym_hygiene__di18d/desktop.json",
+        "htmlPath": "reports/_blog_how_professional_cleaning_improves_gym_hygiene__di18d/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/blog/hygienic-workspace-best-practices/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.41,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_hygienic_workspace_best_practices__593de/mobile.json",
+        "htmlPath": "reports/_blog_hygienic_workspace_best_practices__593de/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.28,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_hygienic_workspace_best_practices__593de/desktop.json",
+        "htmlPath": "reports/_blog_hygienic_workspace_best_practices__593de/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/blog/sparkling-kindergarten-learning-environment/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.42,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_sparkling_kindergarten_learning_environment__0exbh/mobile.json",
+        "htmlPath": "reports/_blog_sparkling_kindergarten_learning_environment__0exbh/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.27,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_sparkling_kindergarten_learning_environment__0exbh/desktop.json",
+        "htmlPath": "reports/_blog_sparkling_kindergarten_learning_environment__0exbh/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.26,
+          "accessibility": 0.82,
+          "bestPractices": 0.74,
+          "seo": 0.93
+        },
+        "reportPath": "reports/__zhf50/mobile.json",
+        "htmlPath": "reports/__zhf50/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.82,
+          "bestPractices": 0.78,
+          "seo": 0.92
+        },
+        "reportPath": "reports/__zhf50/desktop.json",
+        "htmlPath": "reports/__zhf50/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/testimonial/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.28,
+          "accessibility": 0.88,
+          "bestPractices": 0.74,
+          "seo": 1
+        },
+        "reportPath": "reports/_testimonial__1gpdd/mobile.json",
+        "htmlPath": "reports/_testimonial__1gpdd/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.89,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_testimonial__1gpdd/desktop.json",
+        "htmlPath": "reports/_testimonial__1gpdd/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/office-cleaning-geelong/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.31,
+          "accessibility": 0.9,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_office_cleaning_geelong__qr0yt/mobile.json",
+        "htmlPath": "reports/_office_cleaning_geelong__qr0yt/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.9,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_office_cleaning_geelong__qr0yt/desktop.json",
+        "htmlPath": "reports/_office_cleaning_geelong__qr0yt/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/factory-warehouse-cleaning-melbourne/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.32,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.93
+        },
+        "reportPath": "reports/_factory_warehouse_cleaning_melbourne__07u7d/mobile.json",
+        "htmlPath": "reports/_factory_warehouse_cleaning_melbourne__07u7d/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.92
+        },
+        "reportPath": "reports/_factory_warehouse_cleaning_melbourne__07u7d/desktop.json",
+        "htmlPath": "reports/_factory_warehouse_cleaning_melbourne__07u7d/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/office-cleaning-richmond/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.31,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.93
+        },
+        "reportPath": "reports/_office_cleaning_richmond__374do/mobile.json",
+        "htmlPath": "reports/_office_cleaning_richmond__374do/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.92
+        },
+        "reportPath": "reports/_office_cleaning_richmond__374do/desktop.json",
+        "htmlPath": "reports/_office_cleaning_richmond__374do/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/office-cleaning-ballarat/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.3,
+          "accessibility": 0.89,
+          "bestPractices": 0.78,
+          "seo": 0.93
+        },
+        "reportPath": "reports/_office_cleaning_ballarat__tisud/mobile.json",
+        "htmlPath": "reports/_office_cleaning_ballarat__tisud/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.24,
+          "accessibility": 0.89,
+          "bestPractices": 0.78,
+          "seo": 0.92
+        },
+        "reportPath": "reports/_office_cleaning_ballarat__tisud/desktop.json",
+        "htmlPath": "reports/_office_cleaning_ballarat__tisud/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/office-cleaning-south-yarra/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.28,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.93
+        },
+        "reportPath": "reports/_office_cleaning_south_yarra__4a3s9/mobile.json",
+        "htmlPath": "reports/_office_cleaning_south_yarra__4a3s9/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.92
+        },
+        "reportPath": "reports/_office_cleaning_south_yarra__4a3s9/desktop.json",
+        "htmlPath": "reports/_office_cleaning_south_yarra__4a3s9/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/thank-you/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.29,
+          "accessibility": 0.88,
+          "bestPractices": 0.7,
+          "seo": 1
+        },
+        "reportPath": "reports/_thank_you__5gy1p/mobile.json",
+        "htmlPath": "reports/_thank_you__5gy1p/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.22,
+          "accessibility": 0.89,
+          "bestPractices": 0.74,
+          "seo": 1
+        },
+        "reportPath": "reports/_thank_you__5gy1p/desktop.json",
+        "htmlPath": "reports/_thank_you__5gy1p/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/ballarat/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.24,
+          "accessibility": 0.89,
+          "bestPractices": 0.78,
+          "seo": 0.86
+        },
+        "reportPath": "reports/_ballarat__9ly1a/mobile.json",
+        "htmlPath": "reports/_ballarat__9ly1a/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.89,
+          "bestPractices": 0.74,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_ballarat__9ly1a/desktop.json",
+        "htmlPath": "reports/_ballarat__9ly1a/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/commercial-cleaning-bendigo/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.89,
+          "bestPractices": 0.78,
+          "seo": 0.86
+        },
+        "reportPath": "reports/_commercial_cleaning_bendigo__8f9ef/mobile.json",
+        "htmlPath": "reports/_commercial_cleaning_bendigo__8f9ef/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.89,
+          "bestPractices": 0.74,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_commercial_cleaning_bendigo__8f9ef/desktop.json",
+        "htmlPath": "reports/_commercial_cleaning_bendigo__8f9ef/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/geelong/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.23,
+          "accessibility": 0.89,
+          "bestPractices": 0.78,
+          "seo": 0.86
+        },
+        "reportPath": "reports/_geelong__6bxv3/mobile.json",
+        "htmlPath": "reports/_geelong__6bxv3/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.89,
+          "bestPractices": 0.74,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_geelong__6bxv3/desktop.json",
+        "htmlPath": "reports/_geelong__6bxv3/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/commercial-cleaning-melton/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.89,
+          "bestPractices": 0.78,
+          "seo": 0.93
+        },
+        "reportPath": "reports/_commercial_cleaning_melton__c8a8p/mobile.json",
+        "htmlPath": "reports/_commercial_cleaning_melton__c8a8p/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.89,
+          "bestPractices": 0.74,
+          "seo": 0.92
+        },
+        "reportPath": "reports/_commercial_cleaning_melton__c8a8p/desktop.json",
+        "htmlPath": "reports/_commercial_cleaning_melton__c8a8p/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/why-choose-us/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.3,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_why_choose_us__a50gc/mobile.json",
+        "htmlPath": "reports/_why_choose_us__a50gc/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.15,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_why_choose_us__a50gc/desktop.json",
+        "htmlPath": "reports/_why_choose_us__a50gc/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/contact/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_contact__u52bp/mobile.json",
+        "htmlPath": "reports/_contact__u52bp/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.24,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_contact__u52bp/desktop.json",
+        "htmlPath": "reports/_contact__u52bp/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/factory-warehouse-cleaning-australia/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.31,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.93
+        },
+        "reportPath": "reports/_factory_warehouse_cleaning_australia__hr0d1/mobile.json",
+        "htmlPath": "reports/_factory_warehouse_cleaning_australia__hr0d1/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.26,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.92
+        },
+        "reportPath": "reports/_factory_warehouse_cleaning_australia__hr0d1/desktop.json",
+        "htmlPath": "reports/_factory_warehouse_cleaning_australia__hr0d1/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/gym-cleaning-australia/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.32,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.93
+        },
+        "reportPath": "reports/_gym_cleaning_australia__mphl0/mobile.json",
+        "htmlPath": "reports/_gym_cleaning_australia__mphl0/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.26,
+          "accessibility": 0.87,
+          "bestPractices": 0.74,
+          "seo": 0.92
+        },
+        "reportPath": "reports/_gym_cleaning_australia__mphl0/desktop.json",
+        "htmlPath": "reports/_gym_cleaning_australia__mphl0/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/office-cleaning-dandenong/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.29,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.93
+        },
+        "reportPath": "reports/_office_cleaning_dandenong__0pvtj/mobile.json",
+        "htmlPath": "reports/_office_cleaning_dandenong__0pvtj/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.92
+        },
+        "reportPath": "reports/_office_cleaning_dandenong__0pvtj/desktop.json",
+        "htmlPath": "reports/_office_cleaning_dandenong__0pvtj/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/office-cleaning-bendigo/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.3,
+          "accessibility": 0.9,
+          "bestPractices": 0.78,
+          "seo": 0.93
+        },
+        "reportPath": "reports/_office_cleaning_bendigo__3mz6c/mobile.json",
+        "htmlPath": "reports/_office_cleaning_bendigo__3mz6c/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.9,
+          "bestPractices": 0.78,
+          "seo": 0.92
+        },
+        "reportPath": "reports/_office_cleaning_bendigo__3mz6c/desktop.json",
+        "htmlPath": "reports/_office_cleaning_bendigo__3mz6c/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/sitemap/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.34,
+          "accessibility": 0.89,
+          "bestPractices": 0.78,
+          "seo": 0.94
+        },
+        "reportPath": "reports/_sitemap__2llxd/mobile.json",
+        "htmlPath": "reports/_sitemap__2llxd/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.89,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_sitemap__2llxd/desktop.json",
+        "htmlPath": "reports/_sitemap__2llxd/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/faq/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.3,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_faq__1fk3h/mobile.json",
+        "htmlPath": "reports/_faq__1fk3h/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.24,
+          "accessibility": 0.89,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_faq__1fk3h/desktop.json",
+        "htmlPath": "reports/_faq__1fk3h/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/adelaide/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.29,
+          "accessibility": 0.82,
+          "bestPractices": 0.78,
+          "seo": 0.86
+        },
+        "reportPath": "reports/_adelaide__y4mki/mobile.json",
+        "htmlPath": "reports/_adelaide__y4mki/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0,
+          "accessibility": 0,
+          "bestPractices": 0,
+          "seo": 0
+        },
+        "reportPath": "reports/_adelaide__y4mki/desktop.json",
+        "htmlPath": "reports/_adelaide__y4mki/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/adelaide/aged-care-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0,
+          "accessibility": 0,
+          "bestPractices": 0,
+          "seo": 0
+        },
+        "reportPath": "reports/_adelaide_aged_care_cleaning__3hemu/mobile.json",
+        "htmlPath": "reports/_adelaide_aged_care_cleaning__3hemu/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_adelaide_aged_care_cleaning__3hemu/desktop.json",
+        "htmlPath": "reports/_adelaide_aged_care_cleaning__3hemu/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/adelaide/body-corporate-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0,
+          "accessibility": 0,
+          "bestPractices": 0,
+          "seo": 0
+        },
+        "reportPath": "reports/_adelaide_body_corporate_cleaning__ak2ti/mobile.json",
+        "htmlPath": "reports/_adelaide_body_corporate_cleaning__ak2ti/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.92
+        },
+        "reportPath": "reports/_adelaide_body_corporate_cleaning__ak2ti/desktop.json",
+        "htmlPath": "reports/_adelaide_body_corporate_cleaning__ak2ti/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/adelaide/childcare-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.3,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.79
+        },
+        "reportPath": "reports/_adelaide_childcare_cleaning__aylu9/mobile.json",
+        "htmlPath": "reports/_adelaide_childcare_cleaning__aylu9/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_adelaide_childcare_cleaning__aylu9/desktop.json",
+        "htmlPath": "reports/_adelaide_childcare_cleaning__aylu9/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/adelaide/medical-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0,
+          "accessibility": 0,
+          "bestPractices": 0,
+          "seo": 0
+        },
+        "reportPath": "reports/_adelaide_medical_cleaning__itbt9/mobile.json",
+        "htmlPath": "reports/_adelaide_medical_cleaning__itbt9/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_adelaide_medical_cleaning__itbt9/desktop.json",
+        "htmlPath": "reports/_adelaide_medical_cleaning__itbt9/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/adelaide/school-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.27,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.86
+        },
+        "reportPath": "reports/_adelaide_school_cleaning__sk42x/mobile.json",
+        "htmlPath": "reports/_adelaide_school_cleaning__sk42x/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_adelaide_school_cleaning__sk42x/desktop.json",
+        "htmlPath": "reports/_adelaide_school_cleaning__sk42x/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/auckland/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.29,
+          "accessibility": 0.89,
+          "bestPractices": 0.78,
+          "seo": 0.86
+        },
+        "reportPath": "reports/_auckland__71akk/mobile.json",
+        "htmlPath": "reports/_auckland__71akk/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_auckland__71akk/desktop.json",
+        "htmlPath": "reports/_auckland__71akk/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/auckland/aged-care-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.28,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.86
+        },
+        "reportPath": "reports/_auckland_aged_care_cleaning__l8krz/mobile.json",
+        "htmlPath": "reports/_auckland_aged_care_cleaning__l8krz/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_auckland_aged_care_cleaning__l8krz/desktop.json",
+        "htmlPath": "reports/_auckland_aged_care_cleaning__l8krz/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/auckland/body-corporate-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.27,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.93
+        },
+        "reportPath": "reports/_auckland_body_corporate_cleaning__srkkd/mobile.json",
+        "htmlPath": "reports/_auckland_body_corporate_cleaning__srkkd/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.92
+        },
+        "reportPath": "reports/_auckland_body_corporate_cleaning__srkkd/desktop.json",
+        "htmlPath": "reports/_auckland_body_corporate_cleaning__srkkd/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/auckland/childcare-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.31,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.86
+        },
+        "reportPath": "reports/_auckland_childcare_cleaning__erq81/mobile.json",
+        "htmlPath": "reports/_auckland_childcare_cleaning__erq81/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_auckland_childcare_cleaning__erq81/desktop.json",
+        "htmlPath": "reports/_auckland_childcare_cleaning__erq81/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/auckland/medical-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.29,
+          "accessibility": 0.85,
+          "bestPractices": 0.78,
+          "seo": 0.79
+        },
+        "reportPath": "reports/_auckland_medical_cleaning__fzm3g/mobile.json",
+        "htmlPath": "reports/_auckland_medical_cleaning__fzm3g/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.86,
+          "bestPractices": 0.78,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_auckland_medical_cleaning__fzm3g/desktop.json",
+        "htmlPath": "reports/_auckland_medical_cleaning__fzm3g/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/auckland/school-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.27,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.86
+        },
+        "reportPath": "reports/_auckland_school_cleaning__s22fh/mobile.json",
+        "htmlPath": "reports/_auckland_school_cleaning__s22fh/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_auckland_school_cleaning__s22fh/desktop.json",
+        "htmlPath": "reports/_auckland_school_cleaning__s22fh/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/brisbane/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.31,
+          "accessibility": 0.85,
+          "bestPractices": 0.78,
+          "seo": 0.93
+        },
+        "reportPath": "reports/_brisbane__7lh6s/mobile.json",
+        "htmlPath": "reports/_brisbane__7lh6s/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.84,
+          "bestPractices": 0.78,
+          "seo": 0.92
+        },
+        "reportPath": "reports/_brisbane__7lh6s/desktop.json",
+        "htmlPath": "reports/_brisbane__7lh6s/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/brisbane/aged-care-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.31,
+          "accessibility": 0.86,
+          "bestPractices": 0.78,
+          "seo": 0.86
+        },
+        "reportPath": "reports/_brisbane_aged_care_cleaning__v3eze/mobile.json",
+        "htmlPath": "reports/_brisbane_aged_care_cleaning__v3eze/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.86,
+          "bestPractices": 0.78,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_brisbane_aged_care_cleaning__v3eze/desktop.json",
+        "htmlPath": "reports/_brisbane_aged_care_cleaning__v3eze/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/brisbane/body-corporate-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.32,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.93
+        },
+        "reportPath": "reports/_brisbane_body_corporate_cleaning__ax6m5/mobile.json",
+        "htmlPath": "reports/_brisbane_body_corporate_cleaning__ax6m5/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.92
+        },
+        "reportPath": "reports/_brisbane_body_corporate_cleaning__ax6m5/desktop.json",
+        "htmlPath": "reports/_brisbane_body_corporate_cleaning__ax6m5/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/brisbane/childcare-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.3,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.86
+        },
+        "reportPath": "reports/_brisbane_childcare_cleaning__kxgy7/mobile.json",
+        "htmlPath": "reports/_brisbane_childcare_cleaning__kxgy7/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0,
+          "accessibility": 0,
+          "bestPractices": 0,
+          "seo": 0
+        },
+        "reportPath": "reports/_brisbane_childcare_cleaning__kxgy7/desktop.json",
+        "htmlPath": "reports/_brisbane_childcare_cleaning__kxgy7/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/brisbane/medical-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.29,
+          "accessibility": 0.86,
+          "bestPractices": 0.78,
+          "seo": 0.86
+        },
+        "reportPath": "reports/_brisbane_medical_cleaning__981s7/mobile.json",
+        "htmlPath": "reports/_brisbane_medical_cleaning__981s7/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.86,
+          "bestPractices": 0.78,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_brisbane_medical_cleaning__981s7/desktop.json",
+        "htmlPath": "reports/_brisbane_medical_cleaning__981s7/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/brisbane/school-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.28,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.86
+        },
+        "reportPath": "reports/_brisbane_school_cleaning__c6up9/mobile.json",
+        "htmlPath": "reports/_brisbane_school_cleaning__c6up9/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_brisbane_school_cleaning__c6up9/desktop.json",
+        "htmlPath": "reports/_brisbane_school_cleaning__c6up9/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/canberra/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.29,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.93
+        },
+        "reportPath": "reports/_canberra__s96ko/mobile.json",
+        "htmlPath": "reports/_canberra__s96ko/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.92
+        },
+        "reportPath": "reports/_canberra__s96ko/desktop.json",
+        "htmlPath": "reports/_canberra__s96ko/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/canberra/aged-care-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.29,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.86
+        },
+        "reportPath": "reports/_canberra_aged_care_cleaning__yet92/mobile.json",
+        "htmlPath": "reports/_canberra_aged_care_cleaning__yet92/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_canberra_aged_care_cleaning__yet92/desktop.json",
+        "htmlPath": "reports/_canberra_aged_care_cleaning__yet92/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/canberra/childcare-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.29,
+          "accessibility": 0.82,
+          "bestPractices": 0.78,
+          "seo": 0.86
+        },
+        "reportPath": "reports/_canberra_childcare_cleaning__3grgb/mobile.json",
+        "htmlPath": "reports/_canberra_childcare_cleaning__3grgb/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.83,
+          "bestPractices": 0.78,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_canberra_childcare_cleaning__3grgb/desktop.json",
+        "htmlPath": "reports/_canberra_childcare_cleaning__3grgb/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/canberra/medical-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.29,
+          "accessibility": 0.82,
+          "bestPractices": 0.78,
+          "seo": 0.86
+        },
+        "reportPath": "reports/_canberra_medical_cleaning__m26in/mobile.json",
+        "htmlPath": "reports/_canberra_medical_cleaning__m26in/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.83,
+          "bestPractices": 0.78,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_canberra_medical_cleaning__m26in/desktop.json",
+        "htmlPath": "reports/_canberra_medical_cleaning__m26in/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/canberra/school-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.29,
+          "accessibility": 0.83,
+          "bestPractices": 0.78,
+          "seo": 0.86
+        },
+        "reportPath": "reports/_canberra_school_cleaning__hym5j/mobile.json",
+        "htmlPath": "reports/_canberra_school_cleaning__hym5j/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.83,
+          "bestPractices": 0.78,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_canberra_school_cleaning__hym5j/desktop.json",
+        "htmlPath": "reports/_canberra_school_cleaning__hym5j/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/canberra/body-corporate-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.29,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.93
+        },
+        "reportPath": "reports/_canberra_body_corporate_cleaning__pzrui/mobile.json",
+        "htmlPath": "reports/_canberra_body_corporate_cleaning__pzrui/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.92
+        },
+        "reportPath": "reports/_canberra_body_corporate_cleaning__pzrui/desktop.json",
+        "htmlPath": "reports/_canberra_body_corporate_cleaning__pzrui/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/hobart/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.89,
+          "bestPractices": 0.78,
+          "seo": 0.93
+        },
+        "reportPath": "reports/_hobart__8h76p/mobile.json",
+        "htmlPath": "reports/_hobart__8h76p/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.89,
+          "bestPractices": 0.74,
+          "seo": 0.92
+        },
+        "reportPath": "reports/_hobart__8h76p/desktop.json",
+        "htmlPath": "reports/_hobart__8h76p/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/hobart/aged-care-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.28,
+          "accessibility": 0.87,
+          "bestPractices": 0.74,
+          "seo": 0.86
+        },
+        "reportPath": "reports/_hobart_aged_care_cleaning__6j3qi/mobile.json",
+        "htmlPath": "reports/_hobart_aged_care_cleaning__6j3qi/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_hobart_aged_care_cleaning__6j3qi/desktop.json",
+        "htmlPath": "reports/_hobart_aged_care_cleaning__6j3qi/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/hobart/body-corporate-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.29,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.93
+        },
+        "reportPath": "reports/_hobart_body_corporate_cleaning__a5dh4/mobile.json",
+        "htmlPath": "reports/_hobart_body_corporate_cleaning__a5dh4/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.26,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.92
+        },
+        "reportPath": "reports/_hobart_body_corporate_cleaning__a5dh4/desktop.json",
+        "htmlPath": "reports/_hobart_body_corporate_cleaning__a5dh4/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/hobart/childcare-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.3,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.86
+        },
+        "reportPath": "reports/_hobart_childcare_cleaning__0tcgk/mobile.json",
+        "htmlPath": "reports/_hobart_childcare_cleaning__0tcgk/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0,
+          "accessibility": 0,
+          "bestPractices": 0,
+          "seo": 0
+        },
+        "reportPath": "reports/_hobart_childcare_cleaning__0tcgk/desktop.json",
+        "htmlPath": "reports/_hobart_childcare_cleaning__0tcgk/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/hobart/medical-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0,
+          "accessibility": 0,
+          "bestPractices": 0,
+          "seo": 0
+        },
+        "reportPath": "reports/_hobart_medical_cleaning__3owy2/mobile.json",
+        "htmlPath": "reports/_hobart_medical_cleaning__3owy2/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.86,
+          "bestPractices": 0.78,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_hobart_medical_cleaning__3owy2/desktop.json",
+        "htmlPath": "reports/_hobart_medical_cleaning__3owy2/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/hobart/school-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.3,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.86
+        },
+        "reportPath": "reports/_hobart_school_cleaning__u4x8d/mobile.json",
+        "htmlPath": "reports/_hobart_school_cleaning__u4x8d/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_hobart_school_cleaning__u4x8d/desktop.json",
+        "htmlPath": "reports/_hobart_school_cleaning__u4x8d/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/perth/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.28,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.93
+        },
+        "reportPath": "reports/_perth__2n8u5/mobile.json",
+        "htmlPath": "reports/_perth__2n8u5/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.92
+        },
+        "reportPath": "reports/_perth__2n8u5/desktop.json",
+        "htmlPath": "reports/_perth__2n8u5/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/perth/aged-care-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.31,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.79
+        },
+        "reportPath": "reports/_perth_aged_care_cleaning__qgpbg/mobile.json",
+        "htmlPath": "reports/_perth_aged_care_cleaning__qgpbg/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_perth_aged_care_cleaning__qgpbg/desktop.json",
+        "htmlPath": "reports/_perth_aged_care_cleaning__qgpbg/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/perth/body-corporate-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.3,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.93
+        },
+        "reportPath": "reports/_perth_body_corporate_cleaning__wc1x9/mobile.json",
+        "htmlPath": "reports/_perth_body_corporate_cleaning__wc1x9/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.92
+        },
+        "reportPath": "reports/_perth_body_corporate_cleaning__wc1x9/desktop.json",
+        "htmlPath": "reports/_perth_body_corporate_cleaning__wc1x9/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/perth/childcare-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.31,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.79
+        },
+        "reportPath": "reports/_perth_childcare_cleaning__w5sdv/mobile.json",
+        "htmlPath": "reports/_perth_childcare_cleaning__w5sdv/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.26,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_perth_childcare_cleaning__w5sdv/desktop.json",
+        "htmlPath": "reports/_perth_childcare_cleaning__w5sdv/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/perth/medical-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.28,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.86
+        },
+        "reportPath": "reports/_perth_medical_cleaning__1h5ck/mobile.json",
+        "htmlPath": "reports/_perth_medical_cleaning__1h5ck/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.26,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_perth_medical_cleaning__1h5ck/desktop.json",
+        "htmlPath": "reports/_perth_medical_cleaning__1h5ck/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/perth/school-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.3,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.79
+        },
+        "reportPath": "reports/_perth_school_cleaning__2opzp/mobile.json",
+        "htmlPath": "reports/_perth_school_cleaning__2opzp/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_perth_school_cleaning__2opzp/desktop.json",
+        "htmlPath": "reports/_perth_school_cleaning__2opzp/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/sydney/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.3,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.93
+        },
+        "reportPath": "reports/_sydney__g7nwb/mobile.json",
+        "htmlPath": "reports/_sydney__g7nwb/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.92
+        },
+        "reportPath": "reports/_sydney__g7nwb/desktop.json",
+        "htmlPath": "reports/_sydney__g7nwb/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/sydney/aged-care-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.27,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.86
+        },
+        "reportPath": "reports/_sydney_aged_care_cleaning__blf8w/mobile.json",
+        "htmlPath": "reports/_sydney_aged_care_cleaning__blf8w/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.24,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_sydney_aged_care_cleaning__blf8w/desktop.json",
+        "htmlPath": "reports/_sydney_aged_care_cleaning__blf8w/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/sydney/body-corporate-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.27,
+          "accessibility": 0.87,
+          "bestPractices": 0.74,
+          "seo": 0.86
+        },
+        "reportPath": "reports/_sydney_body_corporate_cleaning__75psg/mobile.json",
+        "htmlPath": "reports/_sydney_body_corporate_cleaning__75psg/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.92
+        },
+        "reportPath": "reports/_sydney_body_corporate_cleaning__75psg/desktop.json",
+        "htmlPath": "reports/_sydney_body_corporate_cleaning__75psg/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/sydney/childcare-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.3,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.86
+        },
+        "reportPath": "reports/_sydney_childcare_cleaning__owhn0/mobile.json",
+        "htmlPath": "reports/_sydney_childcare_cleaning__owhn0/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_sydney_childcare_cleaning__owhn0/desktop.json",
+        "htmlPath": "reports/_sydney_childcare_cleaning__owhn0/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/sydney/medical-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.3,
+          "accessibility": 0.86,
+          "bestPractices": 0.78,
+          "seo": 0.86
+        },
+        "reportPath": "reports/_sydney_medical_cleaning__mcwfd/mobile.json",
+        "htmlPath": "reports/_sydney_medical_cleaning__mcwfd/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0,
+          "accessibility": 0,
+          "bestPractices": 0,
+          "seo": 0
+        },
+        "reportPath": "reports/_sydney_medical_cleaning__mcwfd/desktop.json",
+        "htmlPath": "reports/_sydney_medical_cleaning__mcwfd/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/sydney/school-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.28,
+          "accessibility": 0.86,
+          "bestPractices": 0.78,
+          "seo": 0.86
+        },
+        "reportPath": "reports/_sydney_school_cleaning__bxr38/mobile.json",
+        "htmlPath": "reports/_sydney_school_cleaning__bxr38/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.26,
+          "accessibility": 0.86,
+          "bestPractices": 0.78,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_sydney_school_cleaning__bxr38/desktop.json",
+        "htmlPath": "reports/_sydney_school_cleaning__bxr38/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/commercial-cleaning-melbourne/medical-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.28,
+          "accessibility": 0.86,
+          "bestPractices": 0.78,
+          "seo": 0.86
+        },
+        "reportPath": "reports/_commercial_cleaning_melbourne_medical_cleaning__7j1mh/mobile.json",
+        "htmlPath": "reports/_commercial_cleaning_melbourne_medical_cleaning__7j1mh/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.22,
+          "accessibility": 0.86,
+          "bestPractices": 0.78,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_commercial_cleaning_melbourne_medical_cleaning__7j1mh/desktop.json",
+        "htmlPath": "reports/_commercial_cleaning_melbourne_medical_cleaning__7j1mh/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/commercial-cleaning-melbourne/childcare-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.32,
+          "accessibility": 0.82,
+          "bestPractices": 0.78,
+          "seo": 0.86
+        },
+        "reportPath": "reports/_commercial_cleaning_melbourne_childcare_cleaning__xvvgk/mobile.json",
+        "htmlPath": "reports/_commercial_cleaning_melbourne_childcare_cleaning__xvvgk/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.82,
+          "bestPractices": 0.78,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_commercial_cleaning_melbourne_childcare_cleaning__xvvgk/desktop.json",
+        "htmlPath": "reports/_commercial_cleaning_melbourne_childcare_cleaning__xvvgk/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/commercial-cleaning-melbourne/aged-care-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.29,
+          "accessibility": 0.83,
+          "bestPractices": 0.78,
+          "seo": 0.86
+        },
+        "reportPath": "reports/_commercial_cleaning_melbourne_aged_care_cleaning__7fd97/mobile.json",
+        "htmlPath": "reports/_commercial_cleaning_melbourne_aged_care_cleaning__7fd97/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.83,
+          "bestPractices": 0.78,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_commercial_cleaning_melbourne_aged_care_cleaning__7fd97/desktop.json",
+        "htmlPath": "reports/_commercial_cleaning_melbourne_aged_care_cleaning__7fd97/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/privacy-policy/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.4,
+          "accessibility": 0.89,
+          "bestPractices": 0.74,
+          "seo": 1
+        },
+        "reportPath": "reports/_privacy_policy__9m8zm/mobile.json",
+        "htmlPath": "reports/_privacy_policy__9m8zm/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.28,
+          "accessibility": 0.89,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_privacy_policy__9m8zm/desktop.json",
+        "htmlPath": "reports/_privacy_policy__9m8zm/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/office-cleaning-services-melton/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.28,
+          "accessibility": 0.9,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_office_cleaning_services_melton__2d5rl/mobile.json",
+        "htmlPath": "reports/_office_cleaning_services_melton__2d5rl/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.9,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_office_cleaning_services_melton__2d5rl/desktop.json",
+        "htmlPath": "reports/_office_cleaning_services_melton__2d5rl/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/office-cleaning-port-melbourne/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.3,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.79
+        },
+        "reportPath": "reports/_office_cleaning_port_melbourne__7wxb8/mobile.json",
+        "htmlPath": "reports/_office_cleaning_port_melbourne__7wxb8/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.24,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_office_cleaning_port_melbourne__7wxb8/desktop.json",
+        "htmlPath": "reports/_office_cleaning_port_melbourne__7wxb8/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/industrial-cleaning-melbourne/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.35,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.93
+        },
+        "reportPath": "reports/_industrial_cleaning_melbourne__nt0ky/mobile.json",
+        "htmlPath": "reports/_industrial_cleaning_melbourne__nt0ky/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.92
+        },
+        "reportPath": "reports/_industrial_cleaning_melbourne__nt0ky/desktop.json",
+        "htmlPath": "reports/_industrial_cleaning_melbourne__nt0ky/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/commercial-cleaning-melbourne/body-corporate-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.34,
+          "accessibility": 0.78,
+          "bestPractices": 0.78,
+          "seo": 0.86
+        },
+        "reportPath": "reports/_commercial_cleaning_melbourne_body_corporate_cleaning__2pxys/mobile.json",
+        "htmlPath": "reports/_commercial_cleaning_melbourne_body_corporate_cleaning__2pxys/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.26,
+          "accessibility": 0.78,
+          "bestPractices": 0.78,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_commercial_cleaning_melbourne_body_corporate_cleaning__2pxys/desktop.json",
+        "htmlPath": "reports/_commercial_cleaning_melbourne_body_corporate_cleaning__2pxys/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/commercial-cleaning-melbourne/school-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.28,
+          "accessibility": 0.79,
+          "bestPractices": 0.74,
+          "seo": 0.86
+        },
+        "reportPath": "reports/_commercial_cleaning_melbourne_school_cleaning__kn2rd/mobile.json",
+        "htmlPath": "reports/_commercial_cleaning_melbourne_school_cleaning__kn2rd/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.78,
+          "bestPractices": 0.78,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_commercial_cleaning_melbourne_school_cleaning__kn2rd/desktop.json",
+        "htmlPath": "reports/_commercial_cleaning_melbourne_school_cleaning__kn2rd/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/commercial-cleaning-melbourne/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.35,
+          "accessibility": 0.84,
+          "bestPractices": 0.74,
+          "seo": 0.86
+        },
+        "reportPath": "reports/_commercial_cleaning_melbourne__rifz1/mobile.json",
+        "htmlPath": "reports/_commercial_cleaning_melbourne__rifz1/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.27,
+          "accessibility": 0.82,
+          "bestPractices": 0.74,
+          "seo": 0.92
+        },
+        "reportPath": "reports/_commercial_cleaning_melbourne__rifz1/desktop.json",
+        "htmlPath": "reports/_commercial_cleaning_melbourne__rifz1/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/about-us/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.28,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.86
+        },
+        "reportPath": "reports/_about_us__b6hkp/mobile.json",
+        "htmlPath": "reports/_about_us__b6hkp/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.87,
+          "bestPractices": 0.78,
+          "seo": 0.83
+        },
+        "reportPath": "reports/_about_us__b6hkp/desktop.json",
+        "htmlPath": "reports/_about_us__b6hkp/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/request-a-quote/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.27,
+          "accessibility": 0.86,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_request_a_quote__n8hgr/mobile.json",
+        "htmlPath": "reports/_request_a_quote__n8hgr/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.12,
+          "accessibility": 0.86,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_request_a_quote__n8hgr/desktop.json",
+        "htmlPath": "reports/_request_a_quote__n8hgr/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/blog/category/aged-care-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.36,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_category_aged_care_cleaning__97zls/mobile.json",
+        "htmlPath": "reports/_blog_category_aged_care_cleaning__97zls/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.28,
+          "accessibility": 0.89,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_category_aged_care_cleaning__97zls/desktop.json",
+        "htmlPath": "reports/_blog_category_aged_care_cleaning__97zls/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/blog/category/gym-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.4,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_category_gym_cleaning__1lwxx/mobile.json",
+        "htmlPath": "reports/_blog_category_gym_cleaning__1lwxx/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.26,
+          "accessibility": 0.89,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_category_gym_cleaning__1lwxx/desktop.json",
+        "htmlPath": "reports/_blog_category_gym_cleaning__1lwxx/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/blog/category/office-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.29,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.93
+        },
+        "reportPath": "reports/_blog_category_office_cleaning__usq0v/mobile.json",
+        "htmlPath": "reports/_blog_category_office_cleaning__usq0v/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.26,
+          "accessibility": 0.89,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_category_office_cleaning__usq0v/desktop.json",
+        "htmlPath": "reports/_blog_category_office_cleaning__usq0v/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/blog/category/school-university-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.37,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_category_school_university_cleaning__z19s5/mobile.json",
+        "htmlPath": "reports/_blog_category_school_university_cleaning__z19s5/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.27,
+          "accessibility": 0.89,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_category_school_university_cleaning__z19s5/desktop.json",
+        "htmlPath": "reports/_blog_category_school_university_cleaning__z19s5/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/blog/category/strata-cleaning/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.37,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_category_strata_cleaning__qg1qu/mobile.json",
+        "htmlPath": "reports/_blog_category_strata_cleaning__qg1qu/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.89,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_category_strata_cleaning__qg1qu/desktop.json",
+        "htmlPath": "reports/_blog_category_strata_cleaning__qg1qu/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/blog/category/uncategorized/",
+      "status": "up",
+      "discoveredFrom": "sitemap",
+      "mobile": {
+        "scores": {
+          "performance": 0.36,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_category_uncategorized__6i8vp/mobile.json",
+        "htmlPath": "reports/_blog_category_uncategorized__6i8vp/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.28,
+          "accessibility": 0.89,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_category_uncategorized__6i8vp/desktop.json",
+        "htmlPath": "reports/_blog_category_uncategorized__6i8vp/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/request-a-quote",
+      "status": "up",
+      "discoveredFrom": "crawl",
+      "mobile": {
+        "scores": {
+          "performance": 0.26,
+          "accessibility": 0.86,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_request_a_quote_60vk0/mobile.json",
+        "htmlPath": "reports/_request_a_quote_60vk0/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.1,
+          "accessibility": 0.86,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_request_a_quote_60vk0/desktop.json",
+        "htmlPath": "reports/_request_a_quote_60vk0/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/melbourne/",
+      "status": "up",
+      "discoveredFrom": "crawl",
+      "mobile": {
+        "scores": {
+          "performance": 0.3,
+          "accessibility": 0.84,
+          "bestPractices": 0.74,
+          "seo": 0.93
+        },
+        "reportPath": "reports/_melbourne__eoiex/mobile.json",
+        "htmlPath": "reports/_melbourne__eoiex/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.26,
+          "accessibility": 0.82,
+          "bestPractices": 0.74,
+          "seo": 0.92
+        },
+        "reportPath": "reports/_melbourne__eoiex/desktop.json",
+        "htmlPath": "reports/_melbourne__eoiex/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/blog/author/studio-hawk/",
+      "status": "up",
+      "discoveredFrom": "crawl",
+      "mobile": {
+        "scores": {
+          "performance": 0.27,
+          "accessibility": 0.82,
+          "bestPractices": 0.74,
+          "seo": 0.93
+        },
+        "reportPath": "reports/_blog_author_studio_hawk__7u8xs/mobile.json",
+        "htmlPath": "reports/_blog_author_studio_hawk__7u8xs/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.82,
+          "bestPractices": 0.78,
+          "seo": 0.92
+        },
+        "reportPath": "reports/_blog_author_studio_hawk__7u8xs/desktop.json",
+        "htmlPath": "reports/_blog_author_studio_hawk__7u8xs/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/blog/author/sidhu/",
+      "status": "up",
+      "discoveredFrom": "crawl",
+      "mobile": {
+        "scores": {
+          "performance": 0.27,
+          "accessibility": 0.82,
+          "bestPractices": 0.74,
+          "seo": 0.93
+        },
+        "reportPath": "reports/_blog_author_sidhu__nskv2/mobile.json",
+        "htmlPath": "reports/_blog_author_sidhu__nskv2/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.25,
+          "accessibility": 0.82,
+          "bestPractices": 0.78,
+          "seo": 0.92
+        },
+        "reportPath": "reports/_blog_author_sidhu__nskv2/desktop.json",
+        "htmlPath": "reports/_blog_author_sidhu__nskv2/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/blog/tag/sparklingkindergarten/",
+      "status": "up",
+      "discoveredFrom": "crawl",
+      "mobile": {
+        "scores": {
+          "performance": 0.41,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.85
+        },
+        "reportPath": "reports/_blog_tag_sparklingkindergarten__750xw/mobile.json",
+        "htmlPath": "reports/_blog_tag_sparklingkindergarten__750xw/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.27,
+          "accessibility": 0.89,
+          "bestPractices": 0.78,
+          "seo": 0.82
+        },
+        "reportPath": "reports/_blog_tag_sparklingkindergarten__750xw/desktop.json",
+        "htmlPath": "reports/_blog_tag_sparklingkindergarten__750xw/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/blog/tag/officemaintenance/",
+      "status": "up",
+      "discoveredFrom": "crawl",
+      "mobile": {
+        "scores": {
+          "performance": 0.41,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.85
+        },
+        "reportPath": "reports/_blog_tag_officemaintenance__uaf62/mobile.json",
+        "htmlPath": "reports/_blog_tag_officemaintenance__uaf62/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.27,
+          "accessibility": 0.89,
+          "bestPractices": 0.78,
+          "seo": 0.82
+        },
+        "reportPath": "reports/_blog_tag_officemaintenance__uaf62/desktop.json",
+        "htmlPath": "reports/_blog_tag_officemaintenance__uaf62/desktop.html"
+      }
+    },
+    {
+      "url": "https://www.spiffyclean.com.au/blog/page/2/",
+      "status": "up",
+      "discoveredFrom": "crawl",
+      "mobile": {
+        "scores": {
+          "performance": 0.29,
+          "accessibility": 0.88,
+          "bestPractices": 0.78,
+          "seo": 0.93
+        },
+        "reportPath": "reports/_blog_page_2__htril/mobile.json",
+        "htmlPath": "reports/_blog_page_2__htril/mobile.html"
+      },
+      "desktop": {
+        "scores": {
+          "performance": 0.26,
+          "accessibility": 0.89,
+          "bestPractices": 0.78,
+          "seo": 1
+        },
+        "reportPath": "reports/_blog_page_2__htril/desktop.json",
+        "htmlPath": "reports/_blog_page_2__htril/desktop.html"
+      }
+    }
+  ]
+}
