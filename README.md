@@ -62,6 +62,11 @@ pnpm dev
 - **Frontend**: http://localhost:4321
 - **Backend API**: http://localhost:3000
 
+**Run individually:**
+
+- Web only: `pnpm --filter @sitepulse/web dev`
+- API only: `pnpm --filter @sitepulse/api dev`
+
 ## 📖 Usage
 
 ### Web Interface
